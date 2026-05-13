@@ -18,22 +18,5 @@ The idea of this project is to simulate a smart street lighting system that auto
 - Resistors
 - Tinkercad Circuits
 
-- Name	Quantity	     Component
-   P1	     1	      5 , 5 Power Supply
-   L1	     1	       Light bulb
-   U1	     1	      Arduino Uno R3
-   R1    	 1	      Photoresistor
-   D1    	 1	        Red LED
-   T1	     1	     NPN Transistor (BJT)
-   R2
-   R4	     2	      1 kΩ Resistor
-   R3	     1	      220 Ω Resistor
-Name,Quantity,Component
-"P1",1,"5 , 5  Power Supply"
-"L1",1," Light bulb"
-"U1",1," Arduino Uno R3"
-"R1",1," Photoresistor"
-"D1",1,"Red LED"
-"T1",1," NPN Transistor (BJT)"
-"R2, R4",2,"1 kΩ Resistor"
-"R3",1,"220 Ω Resistor"
+<img width="1174" height="779" alt="screenshot ASSLS" src="https://github.com/user-attachments/assets/de1012e7-545c-4b30-bc94-a17e007bd97d" />
+
