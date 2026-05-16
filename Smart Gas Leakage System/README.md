@@ -7,7 +7,7 @@ The system continuously monitors gas levels using a gas sensor and responds with
 
 ---
 
-# Features
+## Features
 
 - Real-time gas monitoring
 - Multi-level gas detection
@@ -19,7 +19,7 @@ The system continuously monitors gas levels using a gas sensor and responds with
 
 ---
 
-# Components Used
+## Components Used
 
 - Arduino Uno
 - Gas Sensor
@@ -32,7 +32,7 @@ The system continuously monitors gas levels using a gas sensor and responds with
 <img width="1738" height="724" alt="Smart Gas Leakage System" src="https://github.com/user-attachments/assets/16552253-a5c4-46d2-80c3-683338be4aa0" />
 ---
 
-# How The System Works
+## How The System Works
 
 The gas sensor continuously reads surrounding gas concentration levels.
 
@@ -50,7 +50,7 @@ This creates a simple simulation of an automated gas leakage warning system.
 
 ---
 
-# Threshold Levels
+## Threshold Levels
 
 | Gas Value | System Status |
 |-----------|----------------|
@@ -61,7 +61,7 @@ This creates a simple simulation of an automated gas leakage warning system.
 
 ---
 
-# What I Learned
+## What I Learned
 
 While building this project, I learned:
 
@@ -77,7 +77,7 @@ I also improved my understanding of how sensors, outputs, and decision-making lo
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 Some improvements I may explore later:
 
@@ -89,14 +89,14 @@ Some improvements I may explore later:
 
 ---
 
-# Project Preview
+## Project Preview
 
 <img width="1906" height="896" alt="Screenshot 2026-05-16 182553" src="https://github.com/user-attachments/assets/c539ef90-8679-41b0-b576-bca0ad655f10" />
 
 
 ---
 
-# Built Using
+## Built Using
 
 - Arduino
 - Tinkercad Circuits
