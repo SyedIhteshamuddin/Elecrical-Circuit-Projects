@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"GAS1",1," Gas Sensor"
+"R23",1,"4.7 kΩ Resistor"
+"D11",1,"Green LED"
+"D12",1,"Yellow LED"
+"D13",1,"Red LED"
+"R24, RGa, R26",3,"1 kΩ Resistor"
+"U2",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"PIEZO1",1," Piezo"
