@@ -1,4 +1,4 @@
-## Smart Gas Leakage System
+# Smart Gas Leakage System
 
 
 This project is an Arduino + Tinkercad based gas monitoring and alert system built while learning embedded systems and automation concepts.
