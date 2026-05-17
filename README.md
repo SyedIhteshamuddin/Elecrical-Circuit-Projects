@@ -38,6 +38,16 @@ Each project folder usually contains:
 - Sensors, LEDs, buzzers, LCDs, and other basic components
 
 ---
+Certificates & Learning
+
+This repository also includes a few engineering-related certificates and learning records connected to:
+
+MATLAB
+automation
+embedded systems
+engineering software/tools
+Check Certifications Folder for more details.
+---
 
 ## Why I Started This Repository
 
