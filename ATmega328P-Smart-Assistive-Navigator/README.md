@@ -150,25 +150,20 @@ ATmega328P-Smart-Obstacle-Detection-System
 
 ## Schematic
 
-<p align="center">
-<img src="images/schematic.png" width="900">
-</p>
+[SAN PCBschmmView.pdf](https://github.com/user-attachments/files/30513263/SAN.PCBschmmView.pdf)
 
 ---
 
 ## PCB Layout
 
-<p align="center">
-<img src="images/pcb_front.png" width="650">
-</p>
+ [SAN PCB PrintView.pdf](https://github.com/user-attachments/files/30513280/SAN.PCB.PrintView.pdf)
 
 ---
 
 ## 3D View
 
-<p align="center">
-<img src="images/pcb_isometric.png" width="700">
-</p>
+<img width="1068" height="600" alt="SAN PCB 3d_Front" src="https://github.com/user-attachments/assets/c7f28d1a-4cb9-44df-b680-5b9e4f810696" />  <img width="1068" height="600" alt="SAN PCB 3d_Back" src="https://github.com/user-attachments/assets/25ba2ae3-7e90-4e43-8974-32839621373a" />  <img width="1068" height="600" alt="SAN PCB 3d_Isometric" src="https://github.com/user-attachments/assets/657fe181-6576-4f5e-8f6d-66e9ae553ad0" />
+
 
 ---
 
