@@ -1,9 +1,6 @@
 # ATmega328P Smart Assistive Navigator
 
-<p align="center">
-  <img src="images/pcb_isometric.png" width="750">
-</p>
-
+<img width="1068" height="600" alt="SAN PCB 3d_Isometric" src="https://github.com/user-attachments/assets/4431268e-ec4b-4a8c-a630-b58b5e68a863" />
 <p align="center">
 
 ![KiCad](https://img.shields.io/badge/KiCad-10-blue)
