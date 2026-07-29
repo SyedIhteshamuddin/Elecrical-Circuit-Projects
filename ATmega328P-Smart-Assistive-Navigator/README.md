@@ -10,7 +10,8 @@
 ![DRC](https://img.shields.io/badge/DRC-Passed-brightgreen)
 
 </p>
-**Designed as a personal learning project to understand the complete PCB development workflow from schematic capture to fabrication-ready outputs using KiCad.**
+Designed as a personal learning project to understand the complete PCB development workflow from schematic capture to fabrication-ready outputs using KiCad.
+
 ---
 
 # Project Overview
