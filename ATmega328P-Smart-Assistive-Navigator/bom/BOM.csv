@@ -1,0 +1,17 @@
+Item,Reference,Quantity,Component,Value/Part Number,Package,Description
+1,U1,1,Microcontroller,ATmega328P-PU,DIP-28,8-bit AVR microcontroller
+2,Y1,1,Crystal,16 MHz,HC-49S,Clock source for ATmega328P
+3,C1,1,Ceramic Capacitor,22 pF,Radial THT,Crystal load capacitor
+4,C2,1,Ceramic Capacitor,22 pF,Radial THT,Crystal load capacitor
+5,C3,1,Ceramic Capacitor,100 nF,Radial THT,Power supply decoupling capacitor
+6,R1,1,Resistor,10 kΩ,Axial THT,ATmega328P reset pull-up resistor
+7,R2,1,Resistor,1 kΩ,Axial THT,Base current limiting resistor for transistor
+8,Q1,1,NPN Transistor,PN2222A,TO-92,Motor driver transistor
+9,D1,1,Diode,1N4007,DO-41,Flyback protection diode
+10,SW1,1,Tactile Push Button,6x6 mm,THT,Reset push button
+11,J1,1,AVR ISP Header,2x3 Pin,THT,ISP programming connector
+12,J2,1,LCD Header,1x4 Pin,THT,I2C LCD interface header
+13,J3,1,Sensor Header,1x4 Pin,THT,Ground ultrasonic sensor connector
+14,J4,1,Sensor Header,1x4 Pin,THT,Front ultrasonic sensor connector
+15,J5,1,Motor Connector,1x2 Pin,THT,Motor output connector
+16,J6,1,Piezo Connector,1x2 Pin,THT,Piezo buzzer connector
