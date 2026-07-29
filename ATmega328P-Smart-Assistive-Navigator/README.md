@@ -7,7 +7,6 @@
 ![PCB](https://img.shields.io/badge/PCB-2--Layer-success)
 ![Microcontroller](https://img.shields.io/badge/MCU-ATmega328P-green)
 ![DRC](https://img.shields.io/badge/DRC-Passed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 </p>
 
@@ -150,13 +149,13 @@ ATmega328P-Smart-Obstacle-Detection-System
 
 ## Schematic
 
-[SAN PCBschmmView.pdf](https://github.com/user-attachments/files/30513263/SAN.PCBschmmView.pdf)
+<img width="588" height="804" alt="SANPCBSCHVIEW" src="https://github.com/user-attachments/assets/ea26a3a9-5395-465a-b804-276a71dc419c" />
 
 ---
 
 ## PCB Layout
 
- [SAN PCB PrintView.pdf](https://github.com/user-attachments/files/30513280/SAN.PCB.PrintView.pdf)
+<img width="740" height="824" alt="SANPCBVIEW" src="https://github.com/user-attachments/assets/a3d78648-1fde-4c67-b4df-9e771d0d86cd" />
 
 ---
 
