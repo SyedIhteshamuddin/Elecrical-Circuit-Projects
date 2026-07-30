@@ -177,7 +177,7 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 
 ### PCB Layout
 
-<img src="images/pcb_layout.png" width="95%">
+<img src="images/Pcb_layout.png" width="95%">
 
 </td>
 </tr>
@@ -217,23 +217,6 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 </tr>
 </table>
 
----
-
-## Final PCB
-
-<p align="center">
-<img src="images/SAN PCB 3d_Front.png" width="32%">
-<img src="images/SAN PCB 3d_Back.png" width="32%">
-<img src="images/SAN PCB 3d_Isometric.png" width="32%">
-</p>
-
-<p align="center">
-<b>Front</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Back</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Isometric</b>
-</p>
 ---
 
 # Challenges Faced
