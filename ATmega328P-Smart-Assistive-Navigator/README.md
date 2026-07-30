@@ -108,7 +108,7 @@ This project followed a complete PCB development workflow:
 
 ---
 
-# Design Validation
+## Design Validation
 
 | Check | Status |
 |---------|---------|
@@ -124,8 +124,6 @@ This project followed a complete PCB development workflow:
 
 ---
 
-## Repository Structure
-
 ```text
 ATmega328P-Smart-Assistive-Navigator-PCB
 │
@@ -134,7 +132,7 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 ├── hardware
 │   ├── SAN PCB.kicad_pcb
 │   ├── SAN PCB.kicad_sch
-│   ├── SAN PCB.kicad_pro
+│   └── SAN PCB.kicad_pro
 │
 ├── firmware
 │   └── SAN.ino
@@ -151,11 +149,11 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 │   └── SAN PCB PrintView.pdf
 │
 └── images
-    ├── SAN PCB 3d_Back.png
-    ├── SAN PCB 3d_Front.png
-    ├── SAN PCB 3d_Isometric.png
-    ├── SAN PCB PrintView.pdf
-    └── SAN PCBschmmView.pdf
+    ├── schematic.png
+    ├── pcb_layout.png
+    ├── pcb_front.png
+    ├── pcb_back.png
+    └── pcb_isometric.png
 ```
 ---
 
