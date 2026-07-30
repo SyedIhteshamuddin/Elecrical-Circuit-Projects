@@ -1,4 +1,4 @@
-# Electrical Engineering Portfolio
+# Electrical Engineering Portfolio 
 
 Welcome! This repository documents my hands-on engineering projects completed while exploring electronics, embedded systems, circuit design, and PCB development.
 
