@@ -9,7 +9,8 @@ My goal is to build practical engineering skills through designing, simulating, 
 ## Current Projects
 
 ### ATmega328P-Smart-Assistive-Navigator PCB
-⭐ Latest Project
+⭐ *Latest Project*
+
 This project documents the complete design of a custom two-layer printed circuit board (PCB) for an ATmega328P-based assistive navigation hardware platform.
 
 ### SAN - (Smart Assistive Navigator)
@@ -20,6 +21,8 @@ An automatic lighting system that adjusts LED brightness according to ambient li
 
 ### Smart Gas Leakage System
 A gas monitoring and alert system that detects gas levels and responds using LEDs, LCD messages, and a buzzer alarm.
+
+
 
 More projects and experiments will be added over time as I continue learning.
 
