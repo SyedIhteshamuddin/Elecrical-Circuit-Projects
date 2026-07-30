@@ -95,6 +95,22 @@ Design Workflow:
 7. 3D PCB Visualization
 
 ---
+## PCB Specifications
+
+| Parameter | Value |
+|-----------|--------|
+| PCB Software | KiCad 10 |
+| Board Type | Custom PCB |
+| PCB Layers | 2 |
+| Routing | Manual |
+| Mounting Style | Through-Hole (THT) |
+| Microcontroller | ATmega328P-PU |
+| Board Verification | Design Rule Check (DRC) Passed |
+| Manufacturing Files | Gerber + Drill Files Generated |
+| PCB Status | Fabrication-Ready Design |
+
+
+---
 
 # Design Validation
 
@@ -112,19 +128,12 @@ Design Workflow:
 
 ---
 
-# Repository Structure
+## Repository Structure
 
-```
-ATmega328P-Smart-Obstacle-Detection-System
-
-├── README.md
-├── LICENSE
+```text
+ATmega328P-Smart-Assistive-Navigator-PCB
 │
-├── images
-│   ├── schematic.png
-│   ├── pcb_front.png
-│   ├── pcb_back.png
-│   ├── pcb_isometric.png
+├── README.md
 │
 ├── hardware
 │   ├── SAN PCB.kicad_pcb
@@ -132,19 +141,26 @@ ATmega328P-Smart-Obstacle-Detection-System
 │   ├── SAN PCB.kicad_pro
 │
 ├── firmware
-│   └── obstacle_detection.ino
+│   └── SAN.ino
 │
 ├── fabrication
-│   └── ATmega328P_Obstacle_Detection_Gerbers.zip
+│   ├── Fabrication_Files.zip
+│   └── README.md
 │
 ├── bom
 │   └── BOM.csv
 │
-└── docs
-    ├── Schematic.pdf
-    ├── PCB.pdf
+├── docs
+│   ├── SAN PCB.pdf
+│   └── SAN PCB PrintView.pdf
+│
+└── images
+    ├── SAN PCB 3d_Back.png
+    ├── SAN PCB 3d_Front.png
+    ├── SAN PCB 3d_Isometric.png
+    ├── SAN PCB PrintView.pdf
+    └── SAN PCBschmmView.pdf
 ```
-
 ---
 
 # Gallery
@@ -184,6 +200,21 @@ During the development of this project I encountered several practical PCB desig
 Working through these issues provided valuable hands-on experience with the PCB design process.
 
 ---
+## Design Decisions
+
+Several design decisions were made during the PCB layout to improve reliability and follow standard PCB design practices.
+
+- Placed the 100 nF decoupling capacitor close to the ATmega328P power pins to reduce supply noise.
+- Positioned the 16 MHz crystal oscillator adjacent to the microcontroller to minimize clock trace length.
+- Used dedicated 22 pF load capacitors for crystal stability.
+- Included an ISP programming header for firmware uploading and debugging.
+- Used a PN2222A transistor to safely drive the vibration motor from the microcontroller.
+- Added a flyback diode (1N4007) across the motor output to protect the transistor from inductive voltage spikes.
+- Routed signal traces manually to reduce unnecessary crossings and improve readability.
+- Performed Design Rule Checks (DRC) before generating fabrication files.
+  
+---
+
 
 # Lessons Learned
 
@@ -198,6 +229,22 @@ Through this project I developed practical experience with:
 - Manufacturing file generation
 - Professional engineering documentation
 
+---
+## Skills Demonstrated
+
+Through this project I gained practical experience in:
+
+- PCB Design using KiCad
+- Electronic Schematic Capture
+- Footprint Selection
+- Component Placement
+- Manual PCB Routing
+- Two-Layer PCB Design
+- Design Rule Verification (DRC)
+- Gerber File Generation
+- Bill of Materials (BOM) Creation
+- Hardware Documentation
+- Basic Embedded Hardware Design
 ---
 
 # Future Improvements
