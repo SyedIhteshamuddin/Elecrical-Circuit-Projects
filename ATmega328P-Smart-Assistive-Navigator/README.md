@@ -164,8 +164,13 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 ## Design Files
 
 <p align="center">
-<img src="images/SANPCBSCHVIEW.png" width="47%">
-<img src="images/SANPCBVIEW.png" width="47%">
+  <img src="images/schematic.png" width="48%">
+  <img src="images/Pcb_layout.png" width="48%">
+</p>
+
+<p align="center">
+<b>Schematic</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>PCB Layout</b>
 </p>
 
 <p align="center">
