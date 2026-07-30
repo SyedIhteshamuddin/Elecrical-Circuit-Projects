@@ -10,7 +10,7 @@
 ![DRC](https://img.shields.io/badge/DRC-Passed-brightgreen)
 
 </p>
-Designed as a personal learning project to understand the complete PCB development workflow from schematic capture to fabrication-ready outputs using KiCad.
+Designed as a personal hardware engineering project to learn the complete PCB development workflow—from schematic capture to fabrication-ready manufacturing files—using KiCad.
 
 ---
 
@@ -21,6 +21,66 @@ This project documents the complete design of a custom two-layer printed circuit
 The primary objective was to gain practical experience with the complete PCB design workflow rather than relying on development boards such as the Arduino Uno. The design process included schematic capture, footprint assignment, PCB layout, routing, electrical verification, design rule checking (DRC), and fabrication file generation using KiCad.
 
 Although the board has not been physically manufactured or tested, the project successfully demonstrates a complete PCB design workflow suitable for fabrication.
+
+---
+
+# Gallery
+
+## Design Files
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Schematic
+
+<img src="images/schematic.png" width="95%">
+
+</td>
+
+<td align="center" width="50%">
+
+### PCB Layout
+
+<img src="images/Pcb_layout.png" width="95%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Final PCB
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### Front View
+
+<img src="images/pcb_front.png" width="95%">
+
+</td>
+
+<td align="center" width="33%">
+
+### Back View
+
+<img src="images/pcb_back.png" width="95%">
+
+</td>
+
+<td align="center" width="33%">
+
+### Isometric View
+
+<img src="images/pcb_isometric.png" width="95%">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -123,7 +183,7 @@ This project followed a complete PCB development workflow:
 > **Note:** This project has not been physically manufactured or electrically validated. "Ready for Fabrication" indicates that the design files were successfully generated and verified using KiCad's design checks.
 
 ---
-
+## Repository Structure
 ```text
 ATmega328P-Smart-Assistive-Navigator-PCB
 │
@@ -155,65 +215,6 @@ ATmega328P-Smart-Assistive-Navigator-PCB
     ├── pcb_back.png
     └── pcb_isometric.png
 ```
----
-
-# Gallery
-
-## Design Files
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### Schematic
-
-<img src="images/schematic.png" width="95%">
-
-</td>
-
-<td align="center" width="50%">
-
-### PCB Layout
-
-<img src="images/Pcb_layout.png" width="95%">
-
-</td>
-</tr>
-</table>
-
----
-
-## Final PCB
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### Front View
-
-<img src="images/pcb_front.png" width="95%">
-
-</td>
-
-<td align="center" width="33%">
-
-### Back View
-
-<img src="images/pcb_back.png" width="95%">
-
-</td>
-
-<td align="center" width="33%">
-
-### Isometric View
-
-<img src="images/pcb_isometric.png" width="95%">
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -280,6 +281,7 @@ Through this project I gained practical experience in:
 - Bill of Materials (BOM) Creation
 - Hardware Documentation
 - Basic Embedded Hardware Design
+-  PCB Manufacturing Documentation
 ---
 
 # Future Improvements
@@ -302,7 +304,7 @@ Future versions of this project could include:
 
 High School Student | Aspiring Electrical Engineer
 
-Interested in:
+Areas of Interest:
 
 - Electrical Engineering
 - Embedded Systems
