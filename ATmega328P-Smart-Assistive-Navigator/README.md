@@ -164,13 +164,14 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 ## Design Files
 
 <p align="center">
-  <img src="images/SAN PCBschmmView.png" alt="Schematic" width="46%">
-  <img src="images/SAN PCB PrintView.png" alt="PCB Routing" width="46%">
+<img src="images/SANPCBSCHVIEW.png" width="47%">
+<img src="images/SANPCBVIEW.png" width="47%">
 </p>
 
 <p align="center">
-<b>Schematic</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>PCB Routing</b>
+<b>Schematic</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>PCB Layout</b>
 </p>
 
 ---
@@ -178,17 +179,17 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 ## Final PCB
 
 <p align="center">
-  <img src="images/SAN PCB 3d_Front.png" alt="Front" width="31%">
-  <img src="images/SAN PCB 3d_Back.png" alt="Back" width="31%">
-  <img src="images/SAN PCB 3d_Isometric.png" alt="Isometric" width="31%">
+<img src="images/SAN PCB 3d_Front.png" width="32%">
+<img src="images/SAN PCB 3d_Back.png" width="32%">
+<img src="images/SAN PCB 3d_Isometric.png" width="32%">
 </p>
 
 <p align="center">
-<b>Front View</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Back View</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Isometric View</b>
+<b>Front</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Back</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Isometric</b>
 </p>
 ---
 
