@@ -8,6 +8,9 @@ Most of these projects started as small experiments and gradually improved as I 
 
 ## Current Projects
 
+### ATmega328P-Smart-Assistive-Navigator PCB
+This project documents the complete design of a custom two-layer printed circuit board (PCB) for an ATmega328P-based assistive navigation hardware platform.
+
 ### SAN - (Smart Assistive Navigator)
 An assistive navigation system designed to help visually impaired users detect obstacles and unsafe walking surfaces using real-time ultrasonic sensing
 
