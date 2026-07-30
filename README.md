@@ -1,21 +1,22 @@
-# Electrical Circuit Projects
+# Electrical Engineering Portfolio
 
-This repository contains some of the Arduino and Tinkercad projects I’ve been building while learning embedded systems, sensors, and basic automation concepts.
+Welcome! This repository documents my hands-on engineering projects completed while exploring electronics, embedded systems, circuit design, and PCB development.
 
-Most of these projects started as small experiments and gradually improved as I learned more about how sensors, outputs, and system logic work together.
+My goal is to build practical engineering skills through designing, simulating, documenting, and improving real hardware projects rather than only studying theory.
 
 ---
 
 ## Current Projects
 
 ### ATmega328P-Smart-Assistive-Navigator PCB
+⭐ Latest Project
 This project documents the complete design of a custom two-layer printed circuit board (PCB) for an ATmega328P-based assistive navigation hardware platform.
 
 ### SAN - (Smart Assistive Navigator)
-An assistive navigation system designed to help visually impaired users detect obstacles and unsafe walking surfaces using real-time ultrasonic sensing
+An Arduino-based prototype that assists visually impaired users by detecting nearby obstacles and providing feedback using ultrasonic sensors and vibration/audio alerts.
 
 ### Adaptive Smart Light System
-A simple automatic street light simulation using an LDR sensor and adaptive LED brightness control.
+An automatic lighting system that adjusts LED brightness according to ambient light levels using an LDR sensor.
 
 ### Smart Gas Leakage System
 A gas monitoring and alert system that detects gas levels and responds using LEDs, LCD messages, and a buzzer alarm.
@@ -23,7 +24,35 @@ A gas monitoring and alert system that detects gas levels and responds using LED
 More projects and experiments will be added over time as I continue learning.
 
 ---
+## Skills Demonstrated
 
+Throughout these projects, I have gained practical experience in:
+
+### Electronics
+- Circuit Analysis
+- Embedded Systems
+- Sensor Interfacing
+- Hardware Documentation
+- PCB Design
+- KiCad
+- Schematic Capture
+- PCB Layout
+- Component Placement
+- Manual Routing
+- DRC Verification
+- Gerber Generation
+
+### Programming
+- Arduino
+- Embedded C++
+- Firmware Development
+
+### Engineering Tools
+- MATLAB
+- Autodesk Tinkercad
+- KiCad
+
+---
 ## Project Files
 
 Each project folder usually contains:
@@ -33,15 +62,6 @@ Each project folder usually contains:
 - `.png` file → circuit design screenshot
 - `bom.csv` → components used in the circuit
 - `README.md` → explanation of how the project works
-
----
-
-## Tools Used
-
-- Arduino Uno
-- Tinkercad Circuits
-- Arduino Blocks + C++
-- Sensors, LEDs, buzzers, LCDs, and other basic components
 
 ---
 ## Certificates & Learning
