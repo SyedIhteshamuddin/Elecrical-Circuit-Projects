@@ -16,7 +16,7 @@ Designed as a personal learning project to understand the complete PCB developme
 
 # Project Overview
 
-This project documents the complete design of a custom two-layer printed circuit board (PCB) for an ATmega328P-based obstacle detection system.
+This project documents the complete design of a custom two-layer printed circuit board (PCB) for an ATmega328P-based assistive navigation hardware platform.
 
 The primary objective was to gain practical experience with the complete PCB design workflow rather than relying on development boards such as the Arduino Uno. The design process included schematic capture, footprint assignment, PCB layout, routing, electrical verification, design rule checking (DRC), and fabrication file generation using KiCad.
 
@@ -69,32 +69,6 @@ Although the board has not been physically manufactured or tested, the project s
 
 ---
 
-# PCB Design
-
-Software Used:
-
-- KiCad 10
-
-Board Specifications:
-
-- 2-layer PCB
-- Through-hole components
-- Manual routing
-- Custom board outline
-- DRC verified
-- Gerber files generated
-
-Design Workflow:
-
-1. Schematic Capture
-2. Footprint Assignment
-3. PCB Placement
-4. Manual Routing
-5. Design Rule Check (DRC)
-6. Gerber Generation
-7. 3D PCB Visualization
-
----
 ## PCB Specifications
 
 | Parameter | Value |
@@ -109,6 +83,28 @@ Design Workflow:
 | Manufacturing Files | Gerber + Drill Files Generated |
 | PCB Status | Fabrication-Ready Design |
 
+Copper Thickness: 1 oz (standard fabrication assumption)
+
+Minimum Trace Width:
+0.25 mm
+
+Minimum Clearance:
+0.20 mm
+
+## Design Workflow
+
+This project followed a complete PCB development workflow:
+
+1. Requirement definition
+2. Schematic capture
+3. Component footprint assignment
+4. PCB floorplanning
+5. Manual component placement
+6. Manual two-layer routing
+7. Design Rule Check (DRC)
+8. Fabrication file generation
+9. 3D verification
+10. Documentation
 
 ---
 
@@ -163,24 +159,21 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 ```
 ---
 
-# Gallery
+## Gallery
 
-## Schematic
+### Design Files
 
-<img width="588" height="804" alt="SANPCBSCHVIEW" src="https://github.com/user-attachments/assets/ea26a3a9-5395-465a-b804-276a71dc419c" />
-
----
-
-## PCB Layout
-
-<img width="740" height="824" alt="SANPCBVIEW" src="https://github.com/user-attachments/assets/a3d78648-1fde-4c67-b4df-9e771d0d86cd" />
+| Schematic | PCB Routing |
+|-----------|-------------|
+| <img src="images/SAN PCBschmmView.png" width="450"> | <img src="images/SAN PCB PrintView.png" width="450"> |
 
 ---
 
-## 3D View
+### Final PCB
 
-<img width="1068" height="600" alt="SAN PCB 3d_Front" src="https://github.com/user-attachments/assets/c7f28d1a-4cb9-44df-b680-5b9e4f810696" />  <img width="1068" height="600" alt="SAN PCB 3d_Back" src="https://github.com/user-attachments/assets/25ba2ae3-7e90-4e43-8974-32839621373a" />  <img width="1068" height="600" alt="SAN PCB 3d_Isometric" src="https://github.com/user-attachments/assets/657fe181-6576-4f5e-8f6d-66e9ae553ad0" />
-
+| Front View | Back View | Isometric View |
+|------------|-----------|----------------|
+| <img src="images/SAN PCB 3d_Front.png" width="300"> | <img src="images/SAN PCB 3d_Back.png" width="300"> | <img src="images/SAN PCB 3d_Isometric.png" width="300"> |
 
 ---
 
@@ -228,6 +221,8 @@ Through this project I developed practical experience with:
 - Design verification
 - Manufacturing file generation
 - Professional engineering documentation
+- Tradeoffs between routing simplicity and board compactness
+- Importance of component placement before routing
 
 ---
 ## Skills Demonstrated
@@ -265,7 +260,7 @@ Future versions of this project could include:
 
 **[Syed Ihteshamuddin]**
 
-High School Student
+High School Student | Aspiring Electrical Engineer
 
 Interested in:
 
