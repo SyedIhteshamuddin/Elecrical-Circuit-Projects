@@ -159,22 +159,37 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 ```
 ---
 
-## Gallery
+# Gallery
 
-### Design Files
+## Design Files
 
-| Schematic | PCB Routing |
-|-----------|-------------|
-| <img src="images/SAN PCBschmmView.png" width="450"> | <img src="images/SAN PCB PrintView.png" width="450"> |
+<p align="center">
+  <img src="images/SAN PCBschmmView.png" alt="Schematic" width="46%">
+  <img src="images/SAN PCB PrintView.png" alt="PCB Routing" width="46%">
+</p>
+
+<p align="center">
+<b>Schematic</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>PCB Routing</b>
+</p>
 
 ---
 
-### Final PCB
+## Final PCB
 
-| Front View | Back View | Isometric View |
-|------------|-----------|----------------|
-| <img src="images/SAN PCB 3d_Front.png" width="300"> | <img src="images/SAN PCB 3d_Back.png" width="300"> | <img src="images/SAN PCB 3d_Isometric.png" width="300"> |
+<p align="center">
+  <img src="images/SAN PCB 3d_Front.png" alt="Front" width="31%">
+  <img src="images/SAN PCB 3d_Back.png" alt="Back" width="31%">
+  <img src="images/SAN PCB 3d_Isometric.png" alt="Isometric" width="31%">
+</p>
 
+<p align="center">
+<b>Front View</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Back View</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Isometric View</b>
+</p>
 ---
 
 # Challenges Faced
