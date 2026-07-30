@@ -163,21 +163,59 @@ ATmega328P-Smart-Assistive-Navigator-PCB
 
 ## Design Files
 
-<p align="center">
-  <img src="images/schematic.png" width="48%">
-  <img src="images/Pcb_layout.png" width="48%">
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-<b>Schematic</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>PCB Layout</b>
-</p>
+### Schematic
 
-<p align="center">
-<b>Schematic</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>PCB Layout</b>
-</p>
+<img src="images/schematic.png" width="95%">
+
+</td>
+
+<td align="center" width="50%">
+
+### PCB Layout
+
+<img src="images/pcb_layout.png" width="95%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Final PCB
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### Front View
+
+<img src="images/pcb_front.png" width="95%">
+
+</td>
+
+<td align="center" width="33%">
+
+### Back View
+
+<img src="images/pcb_back.png" width="95%">
+
+</td>
+
+<td align="center" width="33%">
+
+### Isometric View
+
+<img src="images/pcb_isometric.png" width="95%">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
