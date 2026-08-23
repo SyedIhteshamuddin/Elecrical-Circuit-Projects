@@ -10,7 +10,7 @@
 ![DRC](https://img.shields.io/badge/DRC-Passed-brightgreen)
 
 </p>
-Designed as a personal hardware engineering project to learn the complete PCB development workflow—from schematic capture to fabrication-ready manufacturing files—using KiCad.
+Designed as a personal hardware engineering project to learn the complete PCB development workflow from schematic capture to fabrication-ready manufacturing files using KiCad.
 
 ---
 
